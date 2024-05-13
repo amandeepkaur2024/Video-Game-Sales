@@ -20,8 +20,6 @@ JP_Sales - Sales in Japan (in millions)<br>
 Other_Sales - Sales in the rest of the world (in millions)<br>
 Global_Sales - Total worldwide sales.<br>
 
-The script to scrape the data is available at https://github.com/GregorUT/vgchartzScrape. It is based on BeautifulSoup using Python. There are 16,598 records. 2 Columns had missing values.
-
 [Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 **Methodology**
