@@ -31,7 +31,7 @@ The script to scrape the data is available at https://github.com/GregorUT/vgchar
 - Asking and answering interesting questions
 - Summarizing inferences and drawing conclusions
 
-[Notebook](https://github.com/khushiyadav2022/Video-Game-Sales/blob/1fcb984bc0109c0d80c6288b224aafd340a8a132/video-game-sales-analysis.ipynb)
+[Notebook]
 
 **Conclusion**
 - Wii Sports, Grand Theft Auto V, Super Mario Bros, Tetris, and Mario Kart Wii are among the top 5 best-selling video games globally.
